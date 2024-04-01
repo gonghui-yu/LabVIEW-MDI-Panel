@@ -4,7 +4,6 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
-		<Item Name="Add Child Msg.lvclass" Type="LVClass" URL="../[MDI] Parent Messages/Add Child Msg/Add Child Msg.lvclass"/>
 		<Item Name="All Windows In Msg.lvclass" Type="LVClass" URL="../[MDI] Parent Messages/All Windows In Msg/All Windows In Msg.lvclass"/>
 		<Item Name="All Windows Out Msg.lvclass" Type="LVClass" URL="../[MDI] Parent Messages/All Windows Out Msg/All Windows Out Msg.lvclass"/>
 		<Item Name="Arrange Cascade Msg.lvclass" Type="LVClass" URL="../[MDI] Parent Messages/Arrange Cascade Msg/Arrange Cascade Msg.lvclass"/>
